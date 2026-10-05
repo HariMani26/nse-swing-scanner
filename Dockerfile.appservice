@@ -1,0 +1,41 @@
+# ============================================================
+# Combined single-container image for Azure App Service.
+# Stage 1: build the React/Vite frontend into static files.
+# Stage 2: runtime image with nginx (routes by path) + backend
+#          FastAPI app, both supervised by supervisord.
+# ============================================================
+
+FROM node:20-alpine AS frontend-build
+WORKDIR /frontend
+COPY frontend/package*.json ./
+RUN npm install
+COPY frontend/ ./
+ARG VITE_API_BASE_URL=/api
+ENV VITE_API_BASE_URL=$VITE_API_BASE_URL
+RUN npm run build
+
+FROM python:3.11-slim AS runtime
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    gcc nginx supervisor \
+    && rm -rf /var/lib/apt/lists/*
+
+# --- Backend ---
+COPY backend/requirements.txt /app/backend/requirements.txt
+RUN pip install --no-cache-dir -r /app/backend/requirements.txt
+COPY backend/ /app/backend/
+RUN mkdir -p /app/backend/data
+
+# --- Frontend static files ---
+RUN rm -f /etc/nginx/sites-enabled/default
+COPY --from=frontend-build /frontend/dist /usr/share/nginx/html
+
+# --- Routing + process supervision ---
+COPY deploy/nginx.conf /etc/nginx/conf.d/default.conf
+COPY deploy/supervisord.conf /etc/supervisor/conf.d/supervisord.conf
+
+WORKDIR /app/backend
+EXPOSE 80
+
+CMD ["supervisord", "-c", "/etc/supervisor/conf.d/supervisord.conf"]
