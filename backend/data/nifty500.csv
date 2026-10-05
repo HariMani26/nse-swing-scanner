@@ -1,0 +1,146 @@
+Symbol,Company,Sector
+BERGEPAINT,Berger Paints India Ltd,Paints
+HAVELLS,Havells India Ltd,Consumer Durables
+VOLTAS,Voltas Ltd,Consumer Durables
+SIEMENS,Siemens Ltd,Capital Goods
+ABB,ABB India Ltd,Capital Goods
+BOSCHLTD,Bosch Ltd,Auto Ancillary
+MOTHERSON,Samvardhana Motherson International Ltd,Auto Ancillary
+BEL,Bharat Electronics Ltd,Defence
+HAL,Hindustan Aeronautics Ltd,Defence
+BHEL,Bharat Heavy Electricals Ltd,Capital Goods
+IRCTC,Indian Railway Catering & Tourism Corp Ltd,Travel/Tourism
+IEX,Indian Energy Exchange Ltd,Financial Services
+PAGEIND,Page Industries Ltd,Textiles
+MUTHOOTFIN,Muthoot Finance Ltd,NBFC
+CHOLAFIN,Cholamandalam Investment & Finance Ltd,NBFC
+LICHSGFIN,LIC Housing Finance Ltd,NBFC
+PNB,Punjab National Bank,Banking
+BANKBARODA,Bank of Baroda,Banking
+CANBK,Canara Bank,Banking
+IDFCFIRSTB,IDFC First Bank Ltd,Banking
+FEDERALBNK,Federal Bank Ltd,Banking
+AUBANK,AU Small Finance Bank Ltd,Banking
+BANDHANBNK,Bandhan Bank Ltd,Banking
+RBLBANK,RBL Bank Ltd,Banking
+LTIM,LTIMindtree Ltd,IT
+MPHASIS,Mphasis Ltd,IT
+PERSISTENT,Persistent Systems Ltd,IT
+COFORGE,Coforge Ltd,IT
+LTTS,L&T Technology Services Ltd,IT
+OFSS,Oracle Financial Services Software Ltd,IT
+TATAELXSI,Tata Elxsi Ltd,IT
+POLYCAB,Polycab India Ltd,Capital Goods
+DIXON,Dixon Technologies India Ltd,Electronics Manufacturing
+AMBER,Amber Enterprises India Ltd,Electronics Manufacturing
+KPITTECH,KPIT Technologies Ltd,IT
+TRENT,Trent Ltd,Retail
+ABFRL,Aditya Birla Fashion & Retail Ltd,Retail
+JUBLFOOD,Jubilant Foodworks Ltd,FMCG
+VBL,Varun Beverages Ltd,FMCG
+UBL,United Breweries Ltd,FMCG
+RADICO,Radico Khaitan Ltd,FMCG
+TATACONSUM,Tata Consumer Products Ltd,FMCG
+EMAMILTD,Emami Ltd,FMCG
+GLENMARK,Glenmark Pharmaceuticals Ltd,Pharma
+LUPIN,Lupin Ltd,Pharma
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Pharma
+ALKEM,Alkem Laboratories Ltd,Pharma
+AUROPHARMA,Aurobindo Pharma Ltd,Pharma
+BIOCON,Biocon Ltd,Pharma
+GLAND,Gland Pharma Ltd,Pharma
+ZYDUSLIFE,Zydus Lifesciences Ltd,Pharma
+MFSL,Max Financial Services Ltd,Insurance
+GICRE,General Insurance Corp of India,Insurance
+NIACL,New India Assurance Co Ltd,Insurance
+STARHEALTH,Star Health & Allied Insurance Co Ltd,Insurance
+GODREJPROP,Godrej Properties Ltd,Realty
+DLF,DLF Ltd,Realty
+OBEROIRLTY,Oberoi Realty Ltd,Realty
+PRESTIGE,Prestige Estates Projects Ltd,Realty
+PHOENIXLTD,Phoenix Mills Ltd,Realty
+LODHA,Macrotech Developers Ltd,Realty
+SOBHA,Sobha Ltd,Realty
+IGL,Indraprastha Gas Ltd,Energy
+MGL,Mahanagar Gas Ltd,Energy
+PETRONET,Petronet LNG Ltd,Energy
+GUJGASLTD,Gujarat Gas Ltd,Energy
+ADANIGREEN,Adani Green Energy Ltd,Power
+ADANIPOWER,Adani Power Ltd,Power
+TATAPOWER,Tata Power Company Ltd,Power
+NHPC,NHPC Ltd,Power
+SJVN,SJVN Ltd,Power
+CESC,CESC Ltd,Power
+TORNTPOWER,Torrent Power Ltd,Power
+JSWENERGY,JSW Energy Ltd,Power
+RECLTD,REC Ltd,NBFC
+PFC,Power Finance Corp Ltd,NBFC
+IRFC,Indian Railway Finance Corp Ltd,NBFC
+INDIGO,InterGlobe Aviation Ltd,Aviation
+SPICEJET,SpiceJet Ltd,Aviation
+CONCOR,Container Corporation of India Ltd,Logistics
+GESHIP,Great Eastern Shipping Company Ltd,Logistics
+ESCORTS,Escorts Kubota Ltd,Automobile
+ASHOKLEY,Ashok Leyland Ltd,Automobile
+TVSMOTOR,TVS Motor Company Ltd,Automobile
+BALKRISHNA,Balkrishna Industries Ltd,Auto Ancillary
+MRF,MRF Ltd,Auto Ancillary
+APOLLOTYRE,Apollo Tyres Ltd,Auto Ancillary
+CEAT,CEAT Ltd,Auto Ancillary
+EXIDEIND,Exide Industries Ltd,Auto Ancillary
+AMARAJABAT,Amara Raja Energy & Mobility Ltd,Auto Ancillary
+SUPREMEIND,Supreme Industries Ltd,Plastics
+ASTRAL,Astral Ltd,Plastics
+FINOLEXIND,Finolex Industries Ltd,Plastics
+CROMPTON,Crompton Greaves Consumer Electricals Ltd,Consumer Durables
+WHIRLPOOL,Whirlpool of India Ltd,Consumer Durables
+BLUESTARCO,Blue Star Ltd,Consumer Durables
+RATNAMANI,Ratnamani Metals & Tubes Ltd,Metals
+JINDALSTEL,Jindal Steel & Power Ltd,Metals
+SAIL,Steel Authority of India Ltd,Metals
+NMDC,NMDC Ltd,Mining
+NATIONALUM,National Aluminium Company Ltd,Metals
+HINDCOPPER,Hindustan Copper Ltd,Metals
+RITES,RITES Ltd,Infrastructure
+IRCON,Ircon International Ltd,Infrastructure
+RVNL,Rail Vikas Nigam Ltd,Infrastructure
+HUDCO,Housing & Urban Development Corp Ltd,NBFC
+IREDA,Indian Renewable Energy Development Agency Ltd,NBFC
+INDIANB,Indian Bank,Banking
+UCOBANK,UCO Bank,Banking
+UNIONBANK,Union Bank of India,Banking
+MAHABANK,Bank of Maharashtra,Banking
+CENTRALBK,Central Bank of India,Banking
+PSB,Punjab & Sind Bank,Banking
+GMRINFRA,GMR Airports Infrastructure Ltd,Infrastructure
+NBCC,NBCC India Ltd,Infrastructure
+NCC,NCC Ltd,Infrastructure
+KEC,KEC International Ltd,Capital Goods
+THERMAX,Thermax Ltd,Capital Goods
+CUMMINSIND,Cummins India Ltd,Capital Goods
+SKFINDIA,SKF India Ltd,Capital Goods
+SCHAEFFLER,Schaeffler India Ltd,Auto Ancillary
+TIINDIA,Tube Investments of India Ltd,Auto Ancillary
+SONACOMS,Sona BLW Precision Forgings Ltd,Auto Ancillary
+BALRAMCHIN,Balrampur Chini Mills Ltd,Sugar
+EIDPARRY,EID Parry India Ltd,Sugar
+DEEPAKNTR,Deepak Nitrite Ltd,Chemicals
+SRF,SRF Ltd,Chemicals
+AARTIIND,Aarti Industries Ltd,Chemicals
+NAVINFLUOR,Navin Fluorine International Ltd,Chemicals
+PIIND,PI Industries Ltd,Chemicals
+COROMANDEL,Coromandel International Ltd,Chemicals
+UPLTD,UPL Ltd,Chemicals
+GRANULES,Granules India Ltd,Pharma
+LAURUSLABS,Laurus Labs Ltd,Pharma
+IPCALAB,IPCA Laboratories Ltd,Pharma
+NATCOPHARM,Natco Pharma Ltd,Pharma
+AJANTPHARM,Ajanta Pharma Ltd,Pharma
+ABBOTINDIA,Abbott India Ltd,Pharma
+PFIZER,Pfizer Ltd,Pharma
+SANOFI,Sanofi India Ltd,Pharma
+METROPOLIS,Metropolis Healthcare Ltd,Healthcare
+LALPATHLAB,Dr Lal Path Labs Ltd,Healthcare
+FORTIS,Fortis Healthcare Ltd,Healthcare
+MAXHEALTH,Max Healthcare Institute Ltd,Healthcare
+SYNGENE,Syngene International Ltd,Pharma
